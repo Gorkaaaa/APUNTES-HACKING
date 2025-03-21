@@ -1,6 +1,6 @@
 # APUNTES-HACKING
 Durante los últimos meses he estado recolectando apuntes en función de las máquinas que iba resolviendo en HTB, y durante los últimos días he decidido organizarlos un poco y que la gente los pueda utilizar abiertamente y que puedan ser lo más útiles posible no solo para mí sino para todo el que los necesite.
-![[Screenshot 2025-03-21 at 22.26.50.png]]
+![Screenshot 2025-03-21 at 22 26 50](https://github.com/user-attachments/assets/e241bf0b-cf95-4f7e-8433-53b2a0893c95)
 
 # INSTRUCCIONES
 1. INTALAR OBSIDIAN. https://obsidian.md/
