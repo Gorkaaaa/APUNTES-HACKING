@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "9c1a7dcea6e6893a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8883f2eadb1ea6ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32817b308d9ce463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "313b1806aeb3d9a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d91b4581a93988e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a9557d47586e875",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e658be859de4cec9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "16464e986247018b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7790ff0505733b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fc24de88dc69a81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "414d2940a9bec118",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PENTESTING.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PENTESTING"
+            }
+          },
+          {
+            "id": "2b2caf9054825bac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PENTESTING.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PENTESTING"
+            }
+          },
+          {
+            "id": "5c65fc046b501c27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "63fc6f889d37f451",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PENTESTING.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PENTESTING"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "1a9557d47586e875",
+  "lastOpenFiles": [
+    "EXPLOTACIÓN/TEORIA/Screenshot 2025-03-21 at 22.26.50.png",
+    "PENTESTING.md",
+    "RECONOCIMIENTO/PUERTOS O SERVICIOS/2049 NFS.md",
+    "ESCALADA/PIVOTING-PORT FORWARDING/Ligolo.md",
+    "EXPLOTACIÓN/VULNS/BYPASS FUNCIONES PHP BLOQUEADAS RCE..md",
+    "EXPLOTACIÓN/VULNS/HEADER FORGERY.md",
+    "EXPLOTACIÓN/VULNS/WRAPPERS.md",
+    "EXPLOTACIÓN/VULNS/DE PDF A PHP.md",
+    "EXPLOTACIÓN/VULNS/FILE UPLOAD PHP.md",
+    "EXPLOTACIÓN/VULNS/PHP.md",
+    "EXPLOTACIÓN/VULNS/Grafana.md",
+    "EXPLOTACIÓN/VULNS/PHP INJECTION.md",
+    "ESCALADA/LINUX/PYTHON2 INPUT.md",
+    "EXPLOTACIÓN/VULNS/XXE.md",
+    "EXPLOTACIÓN/WINDOWS/GOLDEN TICKET ATACK.md",
+    "EXPLOTACIÓN/VULNS/TOMCAT.md",
+    "Cryptografía/CPASSWORD.md",
+    "EXPLOTACIÓN/SERVICIOS/TRUDESK.md",
+    "Cryptografía/SecureString.md",
+    "Cryptografía/EFS.md",
+    "ESCALADA/WINDOWS/PRIVILEGIO Add workstations to domain.md",
+    "EXPLOTACIÓN/LINUX/TRATAMIENTO TTY.md",
+    "EXPLOTACIÓN/WINDOWS/TRATAMIENTO POWERSHELL.md",
+    "EXPLOTACIÓN/VULNS/PATH TRAVERSAL.md",
+    "ESCALADA/PIVOTING-PORT FORWARDING/Pivoting & Port Forwarding.md",
+    "RECONOCIMIENTO/PUERTOS O SERVICIOS/ENUMERAR REGISTROS DE FORMA REMOTA (DC).md"
+  ]
+}
